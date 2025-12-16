@@ -9,7 +9,7 @@ Then:
 # The essence of the project
 A simple example of calculating body BMI (UDP_SOCKET)
 
-#Language
+# Language
 C++
 
 <i>Made by: Pavel-Kapitonov</i>
